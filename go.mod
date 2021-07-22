@@ -11,7 +11,7 @@ require (
 	github.com/labstack/gommon v0.3.0 // indirect
 	github.com/segmentio/kafka-go v0.4.8
 	github.com/valyala/fasttemplate v1.2.1 // indirect
-	go.mongodb.org/mongo-driver v1.4.4
+	go.mongodb.org/mongo-driver v1.5.1
 	google.golang.org/grpc v1.34.0
 	gopkg.in/rethinkdb/rethinkdb-go.v6 v6.2.1
 )
